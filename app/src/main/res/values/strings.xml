@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BonusCalculator</string>
+    <string name="salary">Salary</string>
+    <string name="years_of_experience">Years of Experience</string>
+    <string name="calculate">Calculate</string>
+    <string name="email">Email</string>
+    <string name="employee_number">Employee Number</string>
+    <string name="name">Name</string>
+    <string name="bonus_calculator">Bonus Calculator</string>
+</resources>
